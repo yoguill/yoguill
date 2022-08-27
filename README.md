@@ -1,4 +1,4 @@
-# Hey! Nice to see you. <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+# Hey! Nice to see you. <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
@@ -8,7 +8,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 👨‍💻 &nbsp;I try to share all my project !
 - ⚡ &nbsp;Fun fact: I :heart: :cat: and Gaming !
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About ME :
+# <img src="https://github.com/yoguill/yoguill/blob/main/asset/Developer.gif" width="45" /> About ME :
 
 ### - I am 29 years old C# developer, I'm learning all about blockchain !!
 
