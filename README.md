@@ -15,7 +15,7 @@ This is the place where I opensource stuff and break things :rofl:
 <img hight="500" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 ### - Learning :
-- ✨ C#, Solidity & React.js project (look my github !!)
+- ✨ C#, Solidity & React.js project !!
 - ✨ All about Freelance
 
 ### - Hobbies : 
