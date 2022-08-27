@@ -7,6 +7,28 @@ This is the place where I opensource stuff and break things :rofl:
 - 👨‍💻 &nbsp;I try to share all my project !
 - ⚡ &nbsp;Fun fact: I :heart: :cat:s and Gaming !
 
+# About ME 💬 :
+
+### - I am 29 years old C# developer for 7 years, I have been reorienting myself for 1 year towards Blockchain !!
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
+### - Learning :
+- ✨ Solidity & React.js project (look my github !!)
+- ✨ Hardhat, EthernautTEST
+- ✨ all about freelance
+
+### - Hobbies : 
+- ✨ Gaming Addict
+- ✨ Watching Series
+- ✨ Music
+- ✨ Crypto & Finance News
+- ✨ To cook (Professional or not ... XD)
+
+</br>
+</br>
+</br>
+
 <h3>I like to use</h3>
 <p>
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
