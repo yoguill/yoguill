@@ -15,7 +15,7 @@ This is the place where I opensource stuff and break things :rofl:
 <img hight="500" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 ### - Learning :
-- ✨ Solidity & React.js project, Hardhat, EthernautTEST, Openzeppelin (look my github !!)
+- ✨ Solidity & React.js project (look my github !!)
 - ✨ All about freelance
 
 ### - Hobbies : 
