@@ -8,7 +8,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 👨‍💻 &nbsp;I try to share all my project !
 - ⚡ &nbsp;Fun fact: I :heart: :cat: and Gaming !
 
-# About ME 💬 :
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About ME :
 
 ### - I am 29 years old C# developer, I'm learning all about blockchain !!
 
