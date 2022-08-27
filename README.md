@@ -25,7 +25,7 @@ This is the place where I opensource stuff and break things :rofl:
 - ✨ Watching Series
 - ✨ Music
 - ✨ Crypto & Finance News
-</br>
+
 # Link 💬 :
 https://linktr.ee/guillaume_roche
 
