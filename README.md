@@ -12,7 +12,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 ### - I am 29 years old C# developer, I'm learning all about blockchain !!
 
-<img hight="500" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="500" width="500" alt="GIF" align="right" src="https://github.com/yoguill/yoguill/blob/main/asset/1936.gif">
 
 ### - Learning :
 - ✨ C#, Solidity & React.js project !!
