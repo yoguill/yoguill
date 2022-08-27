@@ -3,9 +3,10 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning all about blockchain, Go ! 
+- ✨ &nbsp;I’m continue to step up on C# !
 - 📫 &nbsp;How to reach me: g.roche.pro@gmail.com
 - 👨‍💻 &nbsp;I try to share all my project !
-- ⚡ &nbsp;Fun fact: I :heart: :cat:s and Gaming !
+- ⚡ &nbsp;Fun fact: I :heart: :cat: and Gaming !
 
 # About ME 💬 :
 
