@@ -3,7 +3,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning all about blockchain, Go ! 
-- ✨ &nbsp;I’m continue to step up on C# !
+- ✨ &nbsp;I’m continue to step up on C# and ASP.NET !
 - 📫 &nbsp;How to reach me: g.roche.pro@gmail.com
 - 👨‍💻 &nbsp;I try to share all my project !
 - ⚡ &nbsp;Fun fact: I :heart: :cat: and Gaming !
@@ -29,6 +29,7 @@ https://linktr.ee/guillaume_roche
 
 <h3>I like to use</h3>
 <p>
+  <img alt="C#" src="https://img.shields.io/badge/C%23-ASP.NET-brightgreen" />
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
